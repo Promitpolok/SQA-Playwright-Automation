@@ -8,3 +8,10 @@ node_modules/
 
 # Newman API reports
 /newman/
+
+# Allure
+/allure-results/
+/allure-report/
+
+# Newman
+/newman/
